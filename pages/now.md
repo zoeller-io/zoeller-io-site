@@ -21,13 +21,13 @@ Seit einiger Zeit beschäftige ich mich mit dem Thema [Green IT](https://de.wiki
 Im besonderen damit, Software effizient und nachhaltig zu erstellen und zu betreiben.
 
 
-## Programmiersprache Go erlernen
+## Go erlernen
 
 Seit 20 Jahren verwende ich hauptsächlich PHP. Vor 10 Jahren kam noch Python hinzu. Für die nächsten 10 Jahre denke 
 ich, dass die Programmiersprache Go, die ich derzeit erlerne, das Richtige für mich ist.
 
 
-## GitHub Konten konsolidieren
+## GitHub konsolidieren
 
 Seit Anfang 2024 konsolidiere ich meine unterschiedlichen GitHub Konten. In Zukunft werde ich nur noch 
 [https://github.com/zoeller-io](https://github.com/zoeller-io) verwenden.
@@ -36,7 +36,7 @@ Seit Anfang 2024 konsolidiere ich meine unterschiedlichen GitHub Konten. In Zuku
 ## CompTIA Zertifikat machen
 
 Ich bilde mich derzeit im Bereich Cybersecurity weiter und versuche zeitnah, das
-[CompTIA Security+](https://www.comptia.org/certifications/security) SY0-701 Zertifikat zu erlangen.
+[CompTIA Security+](https://www.comptia.org/certifications/security) SY0-701 Zertifikat zu machen.
 
 
 Letzte Aktualisierung: 22. April 2024

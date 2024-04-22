@@ -1,9 +1,15 @@
-language: de
+language:
+  code: de
+  prefix: true
 title: "Mischa Zöller"
 languages:
   - code: de
     name: Deutsch
     locale: de_DE
+  - code: en
+    prefix: true
+    name: English
+    locale: en_US
 baseline: 'Digital Solution Architect & DevOps Engineer'
 baseurl: 'https://zoeller.io/'
 description: 'Site description.'
@@ -24,3 +30,4 @@ pages:
 #      enabled: false
 #    - id: section
 #      enabled: false
+debug: true

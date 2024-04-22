@@ -17,7 +17,22 @@
                 <div class="title">
                     <a href="{{ url(site.home) }}">{{ site.title }}</a>
                 </div>
-                {%- include 'partials/navigation.html.twig' with {menu: site.menus.main} only ~%}
+                <div>
+                    {%- include 'partials/navigation.html.twig' with {menu: site.menus.main} only ~%}
+                </div>
+                <div>
+                    {% if page.language == 'en' %}
+                        {% for t in page.translations %}
+                            <a href="/{{ t.language }}/{{ t.langref }}">{{ t.language }}</a>
+                        {% endfor %} |
+                        {{ page.language }}
+                    {% else %}
+                        {{ page.language }} |
+                        {% for t in page.translations %}
+                            <a href="/{{ t.language }}/{{ t.langref }}">{{ t.language }}</a>
+                        {% endfor %}
+                    {% endif %}
+                </div>
             {%- endblock header ~%}
         </header>
         <hr />
@@ -48,7 +63,7 @@
                             document.write('<a href=\"mailto:' + user + '@' + site + '\">');
                             document.write(user + '@' + site + '</a>');
                         </script>
-                        &copy; Mischa Zöller. Alle Rechte vorbehalten.
+                        &copy; Mischa Zöller. {{ 'copyright'|trans }}
                     </small>
                 </div>
                 <div>

@@ -1,11 +1,12 @@
 ---
-title: Über mich
+title: About
+slug: about
 menu:
   main:
     weight: 2
 ---
 
-# Über mich
+# About
 
 Als __Digital Solution Architect__ und __DevOps Engineer__ helfe ich seit Jahrzehnten Unternehmern dabei, die 
 Technologie aufzubauen, die ihre Organisationen antreibt. Dabei lege ich besonderen Wert auf Green IT und Qualität. Ich 
