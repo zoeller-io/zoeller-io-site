@@ -1,5 +1,9 @@
 language: de
 title: "Mischa Zöller"
+languages:
+  - code: de
+    name: Deutsch
+    locale: de_DE
 baseline: 'Digital Solution Architect & DevOps Engineer'
 baseurl: 'https://zoeller.io/'
 description: 'Site description.'
