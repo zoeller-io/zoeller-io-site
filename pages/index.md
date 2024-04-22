@@ -1,5 +1,8 @@
 ---
 title: Home
+menu:
+  main:
+    weight: 1
 ---
 
 # Mischa Zöller
@@ -22,7 +25,7 @@ Deutschland, der nachhaltige Onlineauftritte und Apps für Unternehmen jeder Gr�
 ### Digital Solution Architect & DevOps Engineer, <a href="https://mentalstark.online" target="_blank">MentalStark GmbH</a>
 
 2020 - 2023 / Gesundheitswesen  
-Entwicklung und Betrieb einer Blended Care Onlineplattform für psychologische Betreuung in der Frauenheilkunde. In 
+Entwicklung und Betrieb einer Blended Care Onlineplattform für psychologische Beratung in der Frauenheilkunde. In 
 einem Team mit bis zu 6 Entwicklern wurden eingesetzt: Scrum, DDD (Domain-Driven Design), Symfony, PHP, JavaScript, 
 Flutter, API Platform, MySQL, Redis, Keycloak, Docker, Grafana, Loki, Git, JIRA, Slack etc.
 

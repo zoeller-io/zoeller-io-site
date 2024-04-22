@@ -11,6 +11,13 @@ tasks:
   cecil:build:
     desc: Builds the website.
     cmds:
+      - rm -rf ./.cache/*
       - rm -rf ./_site/*
       - php cecil.phar build
     aliases: [build]
+
+  deploy:production:
+    cmds:
+      - task: cecil:build
+      - rsync -atvPI ./_site/ xxx:/opt/zllr-web-prd/web
+    aliases: [deploy]

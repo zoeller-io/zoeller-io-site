@@ -1,8 +1,8 @@
 ---
-title: "Über mich"
+title: Über mich
 menu:
   main:
-    weight: 1
+    weight: 2
 ---
 
 # Über mich
