@@ -23,5 +23,5 @@ bis einschließlich Betrieb umzusetzen und den gesamten Prozess von Anfang an zu
 Egal, ob Sie ein nicht-technischer Gründer sind, der seine erste App entwickelt, oder ein etabliertes Unternehmen mit
 einem bestehenden Technikteam, ich stehe bereit, um Ihnen dabei zu helfen, Ihre nächste große Idee zu verwirklichen.
 
-Fragen? Kontaktiere mich! (E-Mail-Adresse s. unten)
+Fragen? Kontaktieren Sie mich! (E-Mail-Adresse s. unten)
 
