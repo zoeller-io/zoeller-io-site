@@ -1,0 +1,21 @@
+title: "Mischa Zöller"
+baseline: 'Digital Solution Architect & DevOps Engineer'
+baseurl: 'https://zoeller.io/'
+description: 'Site description.'
+author:
+  name: Cecil
+  url: 'https://cecil.app/'
+image: cecil-card.png
+pages:
+  body:
+    highlight:
+      enabled: true
+    images:
+      resize:
+        enabled: true
+menus:
+  main:
+    - id: blog
+      enabled: false
+    - id: section
+      enabled: false
