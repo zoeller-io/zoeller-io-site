@@ -9,8 +9,8 @@ menu:
 # About
 
 As a __Digital Solution Architect__ and __DevOps Engineer__, I have been helping entrepreneurs build the technology that
-powers their organizations for decades. I attach particular importance to Green IT and quality. I've built everything
-from marketing websites to full SaaS platforms and everything in between.
+powers their organizations for decades. I attach particular importance to Green Computing and quality. I've built 
+everything from marketing websites to full SaaS platforms and everything in between.
 
 ![Mischa Zöller](/avatar_200_bw.jpg){class=rounded-centered}
 
