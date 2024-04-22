@@ -1,3 +1,4 @@
+language: de
 title: "Mischa Zöller"
 baseline: 'Digital Solution Architect & DevOps Engineer'
 baseurl: 'https://zoeller.io/'
@@ -13,9 +14,9 @@ pages:
     images:
       resize:
         enabled: true
-menus:
-  main:
-    - id: blog
-      enabled: false
-    - id: section
-      enabled: false
+#menus:
+#  main:
+#    - id: blog
+#      enabled: false
+#    - id: section
+#      enabled: false
