@@ -6,7 +6,7 @@ menu:
 ---
 
 :::info
-This page is inspired by Derek Siver's [NowNowNow](https://nownownow.com/about){target=_blank} project. If you have your own webiste, you 
+This page is inspired by Derek Siver's [NowNowNow](https://nownownow.com/about){target=_blank} project. If you have your own website, you 
 should also create a Now page.
 :::
 
