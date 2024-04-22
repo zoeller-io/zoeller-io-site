@@ -1,18 +1,18 @@
 ---
-title: Jetzt
+title: Now
 menu:
   main:
     weight: 3
 ---
 
-# Was ich gerade mache
-
 :::info
-Dies ist eine "[Now Page](https://nownownow.com/about){target=_blank}".
-Und wenn Du eine eigene Webseite hast, solltest Du auch eine erstellen.
+Diess Seite ist inspiriert durch Derek Siver's [NowNowNow](https://nownownow.com/about){target=_blank} Projekt. Wenn Du 
+eine eigene Webseite hast, dann solltest Du auch eine Now-Seite erstellen.
 :::
 
-Letzte Aktualisierung: 22. April 2024
+# Now
+
+Was ich gerade mache...
 
 
 ## Green IT
@@ -21,19 +21,22 @@ Seit einiger Zeit beschäftige ich mich mit dem Thema [Green IT](https://de.wiki
 Im besonderen damit, Software effizient und nachhaltig zu erstellen und zu betreiben.
 
 
-## Programmiersprache Go
+## Programmiersprache Go erlernen
 
 Seit 20 Jahren verwende ich hauptsächlich PHP. Vor 10 Jahren kam noch Python hinzu. Für die nächsten 10 Jahre denke 
-ich, dass Go das Richtige für mich ist.
+ich, dass die Programmiersprache Go, die ich derzeit erlerne, das Richtige für mich ist.
 
 
-## GitHub Konto
+## GitHub Konten konsolidieren
 
 Seit Anfang 2024 konsolidiere ich meine unterschiedlichen GitHub Konten. In Zukunft werde ich nur noch 
 [https://github.com/zoeller-io](https://github.com/zoeller-io) verwenden.
 
 
-## CompTIA Security+ SY0-701
+## CompTIA Zertifikat machen
 
 Ich bilde mich derzeit im Bereich Cybersecurity weiter und versuche zeitnah, das
-[CompTIA Security+](https://www.comptia.org/certifications/security) Zertifikat zu erlangen.
+[CompTIA Security+](https://www.comptia.org/certifications/security) SY0-701 Zertifikat zu erlangen.
+
+
+Letzte Aktualisierung: 22. April 2024

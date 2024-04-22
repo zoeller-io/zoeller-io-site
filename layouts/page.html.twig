@@ -63,14 +63,16 @@
             h1 {
                 color: var(--theme-orange);
                 margin-top: 4rem;
+                margin-bottom: 2rem;
             }
 
-            h2 { margin-top: 4rem; }
+            h2 { margin-top: 2.5rem; }
 
             a {
                 color: var(--theme-orange);
                 text-decoration: none;
             }
+
             a:hover, a:visited {
                 color: var(--theme-orange);
                 text-decoration: underline dashed;
@@ -170,7 +172,14 @@
             /*    content: "#";*/
             /*}*/
 
-            /* Notes */
+            main > aside.note:first-child {
+                margin-top: 4rem;
+            }
+
+            main > aside > h1 {
+                margin-top: 2.5rem;
+            }
+                /* Notes */
             main .note {
                 position: relative;
                 padding: 1rem;
