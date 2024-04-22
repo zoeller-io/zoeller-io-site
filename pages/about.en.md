@@ -1,6 +1,5 @@
 ---
 title: About
-slug: about
 menu:
   main:
     weight: 2
