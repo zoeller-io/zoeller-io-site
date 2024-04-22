@@ -6,8 +6,8 @@ menu:
 ---
 
 :::info
-Diess Seite ist inspiriert durch Derek Siver's [NowNowNow](https://nownownow.com/about){target=_blank} Projekt. Wenn Du 
-eine eigene Webseite hast, dann solltest Du auch eine Now-Seite erstellen.
+Diess Seite ist inspiriert durch Derek Siver's [NowNowNow](https://nownownow.com/about){target=_blank} Projekt. Wenn Sie 
+eine eigene Webseite haben, dann sollten Sie auch eine Now-Seite erstellen.
 :::
 
 # Now
