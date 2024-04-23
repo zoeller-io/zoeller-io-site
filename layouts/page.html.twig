@@ -23,13 +23,13 @@
                 <div>
                     {% if page.language == 'en' %}
                         {% for t in page.translations %}
-                            <a href="/{{ t.language }}/{{ t.langref }}">{{ t.language }}</a>
+                            <a href="/{{ t.language }}/{{ t.path }}">{{ t.language }}</a>
                         {% endfor %} |
                         {{ page.language }}
                     {% else %}
                         {{ page.language }} |
                         {% for t in page.translations %}
-                            <a href="/{{ t.language }}/{{ t.langref }}">{{ t.language }}</a>
+                            <a href="/{{ t.language }}/{{ t.path }}">{{ t.language }}</a>
                         {% endfor %}
                     {% endif %}
                 </div>
@@ -41,7 +41,6 @@
                 {{ page.content }}
             {%- endblock content ~%}
             {#- debug ~#}
-            {%- if getenv('CECIL_DEBUG') %}{{ d(page) }}{% endif ~%}
         </main>
         <hr />
         <footer style="margin-top: 1rem;">
@@ -74,5 +73,7 @@
             {%- endblock footer ~%}
         </footer>
     </div>
+    {%- if site.debug %}<div>{{ d(page, {theme: 'dark'}) }}</div>{% endif ~%}
+    {%- if site.debug %}<div>{{ d(page.translations, {theme: 'dark'}) }}</div>{% endif ~%}
 </body>
 </html>
