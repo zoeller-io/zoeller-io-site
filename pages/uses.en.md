@@ -17,6 +17,8 @@ Technology and software I use and other things I recommend.
 
 PhpStorm / Best IDE for working with PHP.
 
+PyCharm / Best IDE for working with Python.
+
 GoLand / Best IDE for working with Golang.
 
 Docker / To orchestrate and execute projects locally.
