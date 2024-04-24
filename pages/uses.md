@@ -13,6 +13,7 @@ Diese Seite ist inspiriert durch Wes Bos' [/uses](https://uses.tech/){target=_bl
 
 Technik und Software, die ich verwende, und andere Dinge, die ich empfehle.
 
+
 ## Entwicklungswerkzeuge
 
 PhpStorm / Beste IDE für die Arbeit mit PHP.
@@ -23,7 +24,13 @@ GoLand / Beste IDE für die Arbeit mit Golang.
 
 Docker / Um Projekte lokal zu orchestrieren und auszuführen.
 
+
+## Produktivität
+
 Obsidian / Dieses Tool verwende ich zum Organisieren meiner Notizen.
+
+Synthing / Um Dateien zwischen meinen Geräten zu synchronisieren.
+
 
 ## Meta
 
