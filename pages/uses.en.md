@@ -27,11 +27,14 @@ Docker / To orchestrate and execute projects locally.
 
 Ansible / To automate apps and infrastructure.
 
+
 ## Productivity
 
 Obsidian / This tool I use to organize my notes.
 
 Syncthing / To sync files between my devices.
+
+ChatGPT / To gain insights, generate texts and automate tasks.
 
 
 ## Meta

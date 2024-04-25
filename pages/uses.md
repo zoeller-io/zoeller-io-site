@@ -26,11 +26,14 @@ Docker / Um Projekte lokal zu orchestrieren und auszuführen.
 
 Ansible / Zur Automatisierung von Apps und Infrastruktur.
 
+
 ## Produktivität
 
 Obsidian / Dieses Tool verwende ich zum Organisieren meiner Notizen.
 
 Synthing / Um Dateien zwischen meinen Geräten zu synchronisieren.
+
+ChatGPT / Um Erkenntnisse zu gewinnen, Texte zu generieren und Aufgaben zu automatisieren.
 
 
 ## Meta
