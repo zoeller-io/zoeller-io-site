@@ -18,12 +18,13 @@ Technik und Software, die ich verwende, und andere Dinge, die ich empfehle.
 
 PhpStorm / Beste IDE für die Arbeit mit PHP.
 
-PyCharm / Beste ID für die Arbeit mit Python.
+PyCharm / Beste IDE für die Arbeit mit Python.
 
 GoLand / Beste IDE für die Arbeit mit Golang.
 
 Docker / Um Projekte lokal zu orchestrieren und auszuführen.
 
+Ansible / Zur Automatisierung von Apps und Infrastruktur.
 
 ## Produktivität
 
