@@ -42,6 +42,8 @@ body {
     position: absolute;
     left: 0;
     width: 45px;
+    height: 30px;
+    /*line-height: unset;*/
 }
 
 hr {
